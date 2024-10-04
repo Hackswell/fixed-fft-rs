@@ -17,8 +17,8 @@ keywords = [
 repository = "https://github.com/kiffie/fixed-fft-rs"
 
 [dependencies]
-num-complex = { version = "0.3.1", default-features = false  }
+num-complex = { version = "0.4.6", default-features = false  }
 
 [dev-dependencies]
-num-complex = { version = "0.3.1", default-features = true  }
+num-complex = { version = "0.4.6", default-features = true  }
 
